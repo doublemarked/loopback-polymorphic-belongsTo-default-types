@@ -1,0 +1,11 @@
+{
+  "name": "Target",
+  "plural": "Targets",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

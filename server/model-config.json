@@ -25,5 +25,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Target": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Other": {
+    "dataSource": "db",
+    "public": true
   }
 }
